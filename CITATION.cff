@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper and this archive."
+title: "lindblad_mbpt: resolvent perturbation theory for a dephased Hubbard chain"
+authors:
+  - family-names: Atambo
+    given-names: Michael
+    affiliation: "Technical University of Kenya"
+version: "1.0.0"
+license: MIT
+# doi: 10.5281/zenodo.XXXXXXX
